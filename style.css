@@ -11,15 +11,6 @@ body {
     padding-top: 150px;
 }
 
-.header{
-    display: flex;
-    justify-content: flex-end;
-    position: fixed;
-    background-color: #342E37;
-    width: 100vw;
-    top:0;
-
-}
 
 #cauldronSymbol{
     width: 4vw;
@@ -36,9 +27,8 @@ body {
     font-size: 5vh;
     font-family: "Nosifer", sans-serif;
     margin-bottom: 75px;
-    margin-top: 25px;
     width: 100vw;
-    top: 22px;
+    top: 0px;
 }
 
 .row{
